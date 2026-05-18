@@ -13,7 +13,7 @@ Siyah Altın Süt Çiftliği, Kırklareli'nin bereketli topraklarında veteriner
     <td width="50%"><b>Hakkımızda & Hikayemiz</b></td>
   </tr>
   <tr>
-    <td><img src="website_screenshot/1.jpg" alt="Siyah Altın Giriş Ekranı" width="100%"/></td>
+    <td><img src="website_screenshot/2.png" alt="Siyah Altın Giriş Ekranı" width="100%"/></td>
     <td><img src="website_screenshot/2.png" alt="Siyah Altın Hakkımızda" width="100%"/></td>
   </tr>
 </table>
