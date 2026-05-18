@@ -13,8 +13,8 @@ Siyah Altın Süt Çiftliği, Kırklareli'nin bereketli topraklarında veteriner
     <td width="50%"><b>Hakkımızda & Hikayemiz</b></td>
   </tr>
   <tr>
-    <td><img src="1.jpg" alt="Siyah Altın Giriş Ekranı" width="100%"/></td>
-    <td><img src="2.png" alt="Siyah Altın Hakkımızda" width="100%"/></td>
+    <td><img src="website_screenshot/1.jpg" alt="Siyah Altın Giriş Ekranı" width="100%"/></td>
+    <td><img src="website_screenshot/2.png" alt="Siyah Altın Hakkımızda" width="100%"/></td>
   </tr>
 </table>
 
@@ -25,14 +25,14 @@ Siyah Altın Süt Çiftliği, Kırklareli'nin bereketli topraklarında veteriner
     <td width="50%"><b>İletişim & Hızlı Sipariş Hattı</b></td>
   </tr>
   <tr>
-    <td><img src="3.jpg" alt="Siyah Altın Ürünler" width="100%"/></td>
-    <td><img src="4.png" alt="Siyah Altın İletişim" width="100%"/></td>
+    <td><img src="website_screenshot/3.jpg" alt="Siyah Altın Ürünler" width="100%"/></td>
+    <td><img src="website_screenshot/4.png" alt="Siyah Altın İletişim" width="100%"/></td>
   </tr>
 </table>
 
 ### 🖤 Alt Bilgi (Footer)
 <p align="center">
-  <img src="5.png" alt="Siyah Altın Footer" width="80%"/>
+  <img src="website_screenshot/5.png" alt="Siyah Altın Footer" width="80%"/>
 </p>
 
 ---
